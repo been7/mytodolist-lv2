@@ -1,3 +1,11 @@
+# PROJECT
+- My Todo List - React Lv.2
+
+# COMPONENT
+- App.jsx
+- AddTodo.jsx
+- TodoList.jsx
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
